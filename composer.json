@@ -1,0 +1,9 @@
+{
+  "require": {
+    "monolog/monolog": "1.9.*",
+    "phpunit/phpunit": "6.5.*",
+    "phpunit/dbunit": "3.0.*",
+    "aws/aws-sdk-php": "3.9.4",
+    "doctrine/orm": "2.5.*"
+  }
+}
